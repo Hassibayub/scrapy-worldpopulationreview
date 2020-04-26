@@ -1,0 +1,922 @@
+[
+    {
+        "name: ": "Japan",
+        "debt: ": "237.54%",
+        "poplulation: ": "126,476,461"
+    },
+    {
+        "name: ": "Venezuela",
+        "debt: ": "214.45%",
+        "poplulation: ": "28,435,940"
+    },
+    {
+        "name: ": "Sudan",
+        "debt: ": "177.87%",
+        "poplulation: ": null
+    },
+    {
+        "name: ": "Greece",
+        "debt: ": "174.15%",
+        "poplulation: ": "10,423,054"
+    },
+    {
+        "name: ": "Lebanon",
+        "debt: ": "157.81%",
+        "poplulation: ": "6,825,445"
+    },
+    {
+        "name: ": "Italy",
+        "debt: ": "133.43%",
+        "poplulation: ": "60,461,826"
+    },
+    {
+        "name: ": "Eritrea",
+        "debt: ": "127.34%",
+        "poplulation: ": "3,546,421"
+    },
+    {
+        "name: ": "Cape Verde",
+        "debt: ": "125.29%",
+        "poplulation: ": "555,987"
+    },
+    {
+        "name: ": "Mozambique",
+        "debt: ": "124.46%",
+        "poplulation: ": "31,255,435"
+    },
+    {
+        "name: ": "Portugal",
+        "debt: ": "119.46%",
+        "poplulation: ": "10,196,709"
+    },
+    {
+        "name: ": "Barbados",
+        "debt: ": "117.27%",
+        "poplulation: ": "287,375"
+    },
+    {
+        "name: ": "Singapore",
+        "debt: ": "109.37%",
+        "poplulation: ": "5,850,342"
+    },
+    {
+        "name: ": "United States",
+        "debt: ": "106.70%",
+        "poplulation: ": "331,002,651"
+    },
+    {
+        "name: ": "Bhutan",
+        "debt: ": "103.85%",
+        "poplulation: ": "771,608"
+    },
+    {
+        "name: ": "Cyprus",
+        "debt: ": "101.04%",
+        "poplulation: ": "1,207,359"
+    },
+    {
+        "name: ": "Bahrain",
+        "debt: ": "100.19%",
+        "poplulation: ": "1,701,575"
+    },
+    {
+        "name: ": "Belgium",
+        "debt: ": "99.57%",
+        "poplulation: ": "11,589,623"
+    },
+    {
+        "name: ": "France",
+        "debt: ": "99.20%",
+        "poplulation: ": "65,273,511"
+    },
+    {
+        "name: ": "Spain",
+        "debt: ": "95.96%",
+        "poplulation: ": "46,754,778"
+    },
+    {
+        "name: ": "Jordan",
+        "debt: ": "94.83%",
+        "poplulation: ": "10,203,134"
+    },
+    {
+        "name: ": "Jamaica",
+        "debt: ": "94.13%",
+        "poplulation: ": "2,961,167"
+    },
+    {
+        "name: ": "Belize",
+        "debt: ": "92.64%",
+        "poplulation: ": "397,628"
+    },
+    {
+        "name: ": "Angola",
+        "debt: ": "90.46%",
+        "poplulation: ": "32,866,272"
+    },
+    {
+        "name: ": "Brazil",
+        "debt: ": "90.36%",
+        "poplulation: ": "212,559,417"
+    },
+    {
+        "name: ": "Republic of the Congo",
+        "debt: ": "90.19%",
+        "poplulation: ": "5,518,087"
+    },
+    {
+        "name: ": "Antigua and Barbuda",
+        "debt: ": "88.35%",
+        "poplulation: ": "97,929"
+    },
+    {
+        "name: ": "Canada",
+        "debt: ": "88.01%",
+        "poplulation: ": "37,742,154"
+    },
+    {
+        "name: ": "Egypt",
+        "debt: ": "86.93%",
+        "poplulation: ": "102,334,404"
+    },
+    {
+        "name: ": "United Kingdom",
+        "debt: ": "85.67%",
+        "poplulation: ": "67,886,011"
+    },
+    {
+        "name: ": "Aruba",
+        "debt: ": "83.57%",
+        "poplulation: ": "106,766"
+    },
+    {
+        "name: ": "Sri Lanka",
+        "debt: ": "82.99%",
+        "poplulation: ": "21,413,249"
+    },
+    {
+        "name: ": "Tunisia",
+        "debt: ": "81.55%",
+        "poplulation: ": "11,818,619"
+    },
+    {
+        "name: ": "Mauritania",
+        "debt: ": "80.61%",
+        "poplulation: ": "4,649,658"
+    },
+    {
+        "name: ": "Zambia",
+        "debt: ": "80.50%",
+        "poplulation: ": "18,383,955"
+    },
+    {
+        "name: ": "Dominica",
+        "debt: ": "79.84%",
+        "poplulation: ": "71,986"
+    },
+    {
+        "name: ": "Gambia",
+        "debt: ": "78.67%",
+        "poplulation: ": "2,416,668"
+    },
+    {
+        "name: ": "San Marino",
+        "debt: ": "77.12%",
+        "poplulation: ": "33,931"
+    },
+    {
+        "name: ": "Pakistan",
+        "debt: ": "77.00%",
+        "poplulation: ": "220,892,340"
+    },
+    {
+        "name: ": "Argentina",
+        "debt: ": "75.90%",
+        "poplulation: ": "45,195,774"
+    },
+    {
+        "name: ": "Sao Tome and Principe",
+        "debt: ": "74.10%",
+        "poplulation: ": "219,159"
+    },
+    {
+        "name: ": "Sierra Leone",
+        "debt: ": "72.37%",
+        "poplulation: ": "7,976,983"
+    },
+    {
+        "name: ": "Suriname",
+        "debt: ": "72.05%",
+        "poplulation: ": "586,632"
+    },
+    {
+        "name: ": "Saint Lucia",
+        "debt: ": "71.62%",
+        "poplulation: ": "183,627"
+    },
+    {
+        "name: ": "Saint Vincent and the Grenadines",
+        "debt: ": "71.38%",
+        "poplulation: ": "110,940"
+    },
+    {
+        "name: ": "Uruguay",
+        "debt: ": "71.34%",
+        "poplulation: ": "3,473,730"
+    },
+    {
+        "name: ": "Austria",
+        "debt: ": "71.17%",
+        "poplulation: ": "9,006,398"
+    },
+    {
+        "name: ": "Croatia",
+        "debt: ": "70.73%",
+        "poplulation: ": "4,105,267"
+    },
+    {
+        "name: ": "Montenegro",
+        "debt: ": "70.58%",
+        "poplulation: ": "628,066"
+    },
+    {
+        "name: ": "Togo",
+        "debt: ": "70.39%",
+        "poplulation: ": "8,278,724"
+    },
+    {
+        "name: ": "India",
+        "debt: ": "69.04%",
+        "poplulation: ": "1,380,004,385"
+    },
+    {
+        "name: ": "El Salvador",
+        "debt: ": "68.10%",
+        "poplulation: ": "6,486,205"
+    },
+    {
+        "name: ": "Mauritius",
+        "debt: ": "67.50%",
+        "poplulation: ": "1,271,768"
+    },
+    {
+        "name: ": "Hungary",
+        "debt: ": "66.62%",
+        "poplulation: ": "9,660,351"
+    },
+    {
+        "name: ": "Slovenia",
+        "debt: ": "65.44%",
+        "poplulation: ": "2,078,938"
+    },
+    {
+        "name: ": "Albania",
+        "debt: ": "65.13%",
+        "poplulation: ": "2,877,797"
+    },
+    {
+        "name: ": "Morocco",
+        "debt: ": "65.11%",
+        "poplulation: ": "36,910,560"
+    },
+    {
+        "name: ": "Laos",
+        "debt: ": "64.13%",
+        "poplulation: ": "7,275,560"
+    },
+    {
+        "name: ": "Burundi",
+        "debt: ": "63.54%",
+        "poplulation: ": "11,890,784"
+    },
+    {
+        "name: ": "Djibouti",
+        "debt: ": "62.99%",
+        "poplulation: ": "988,000"
+    },
+    {
+        "name: ": "Ireland",
+        "debt: ": "62.42%",
+        "poplulation: ": "4,937,786"
+    },
+    {
+        "name: ": "Ukraine",
+        "debt: ": "62.03%",
+        "poplulation: ": "43,733,762"
+    },
+    {
+        "name: ": "Senegal",
+        "debt: ": "62.00%",
+        "poplulation: ": "16,743,927"
+    },
+    {
+        "name: ": "Ghana",
+        "debt: ": "61.99%",
+        "poplulation: ": "31,072,940"
+    },
+    {
+        "name: ": "Maldives",
+        "debt: ": "61.43%",
+        "poplulation: ": "540,544"
+    },
+    {
+        "name: ": "Oman",
+        "debt: ": "61.29%",
+        "poplulation: ": "5,106,626"
+    },
+    {
+        "name: ": "Bahamas",
+        "debt: ": "60.49%",
+        "poplulation: ": "393,244"
+    },
+    {
+        "name: ": "Nauru",
+        "debt: ": "60.39%",
+        "poplulation: ": "10,824"
+    },
+    {
+        "name: ": "Finland",
+        "debt: ": "59.88%",
+        "poplulation: ": "5,540,720"
+    },
+    {
+        "name: ": "Saint Kitts and Nevis",
+        "debt: ": "59.49%",
+        "poplulation: ": "53,199"
+    },
+    {
+        "name: ": "Malawi",
+        "debt: ": "59.01%",
+        "poplulation: ": "19,129,952"
+    },
+    {
+        "name: ": "Israel",
+        "debt: ": "58.96%",
+        "poplulation: ": "8,655,535"
+    },
+    {
+        "name: ": "Gabon",
+        "debt: ": "58.48%",
+        "poplulation: ": "2,225,734"
+    },
+    {
+        "name: ": "South Africa",
+        "debt: ": "57.81%",
+        "poplulation: ": "59,308,690"
+    },
+    {
+        "name: ": "Puerto Rico",
+        "debt: ": "57.70%",
+        "poplulation: ": "2,860,853"
+    },
+    {
+        "name: ": "Ethiopia",
+        "debt: ": "57.43%",
+        "poplulation: ": "114,963,588"
+    },
+    {
+        "name: ": "Vietnam",
+        "debt: ": "57.36%",
+        "poplulation: ": "97,338,579"
+    },
+    {
+        "name: ": "Guyana",
+        "debt: ": "57.22%",
+        "poplulation: ": "786,552"
+    },
+    {
+        "name: ": "Bolivia",
+        "debt: ": "57.11%",
+        "poplulation: ": "11,673,021"
+    },
+    {
+        "name: ": "Germany",
+        "debt: ": "56.93%",
+        "poplulation: ": "83,783,942"
+    },
+    {
+        "name: ": "Malaysia",
+        "debt: ": "56.32%",
+        "poplulation: ": "32,365,999"
+    },
+    {
+        "name: ": "Costa Rica",
+        "debt: ": "56.15%",
+        "poplulation: ": "5,094,118"
+    },
+    {
+        "name: ": "Grenada",
+        "debt: ": "56.12%",
+        "poplulation: ": "112,523"
+    },
+    {
+        "name: ": "Kyrgyzstan",
+        "debt: ": "56.09%",
+        "poplulation: ": "6,524,195"
+    },
+    {
+        "name: ": "Niger",
+        "debt: ": "55.60%",
+        "poplulation: ": "24,206,644"
+    },
+    {
+        "name: ": "Kenya",
+        "debt: ": "55.50%",
+        "poplulation: ": "53,771,296"
+    },
+    {
+        "name: ": "China",
+        "debt: ": "55.36%",
+        "poplulation: ": "1,439,323,776"
+    },
+    {
+        "name: ": "Guinea-Bissau",
+        "debt: ": "54.92%",
+        "poplulation: ": "1,968,001"
+    },
+    {
+        "name: ": "Yemen",
+        "debt: ": "54.51%",
+        "poplulation: ": "29,825,964"
+    },
+    {
+        "name: ": "Seychelles",
+        "debt: ": "54.49%",
+        "poplulation: ": "98,347"
+    },
+    {
+        "name: ": "Mexico",
+        "debt: ": "54.11%",
+        "poplulation: ": "128,932,753"
+    },
+    {
+        "name: ": "Benin",
+        "debt: ": "54.00%",
+        "poplulation: ": "12,123,200"
+    },
+    {
+        "name: ": "Qatar",
+        "debt: ": "52.74%",
+        "poplulation: ": "2,881,053"
+    },
+    {
+        "name: ": "Vanuatu",
+        "debt: ": "52.18%",
+        "poplulation: ": "307,145"
+    },
+    {
+        "name: ": "Netherlands",
+        "debt: ": "52.04%",
+        "poplulation: ": "17,134,872"
+    },
+    {
+        "name: ": "Namibia",
+        "debt: ": "51.60%",
+        "poplulation: ": "2,540,905"
+    },
+    {
+        "name: ": "Belarus",
+        "debt: ": "51.08%",
+        "poplulation: ": "9,449,323"
+    },
+    {
+        "name: ": "Serbia",
+        "debt: ": "50.95%",
+        "poplulation: ": "8,737,371"
+    },
+    {
+        "name: ": "Ivory Coast",
+        "debt: ": "50.92%",
+        "poplulation: ": "26,378,274"
+    },
+    {
+        "name: ": "Iraq",
+        "debt: ": "50.25%",
+        "poplulation: ": "40,222,493"
+    },
+    {
+        "name: ": "Fiji",
+        "debt: ": "50.22%",
+        "poplulation: ": "896,445"
+    },
+    {
+        "name: ": "Rwanda",
+        "debt: ": "50.00%",
+        "poplulation: ": "12,952,218"
+    },
+    {
+        "name: ": "Trinidad and Tobago",
+        "debt: ": "49.75%",
+        "poplulation: ": "1,399,488"
+    },
+    {
+        "name: ": "Tajikistan",
+        "debt: ": "49.46%",
+        "poplulation: ": "9,537,645"
+    },
+    {
+        "name: ": "Samoa",
+        "debt: ": "49.44%",
+        "poplulation: ": "198,414"
+    },
+    {
+        "name: ": "Ecuador",
+        "debt: ": "49.20%",
+        "poplulation: ": "17,643,054"
+    },
+    {
+        "name: ": "Colombia",
+        "debt: ": "49.16%",
+        "poplulation: ": "50,882,891"
+    },
+    {
+        "name: ": "Armenia",
+        "debt: ": "47.95%",
+        "poplulation: ": "2,963,243"
+    },
+    {
+        "name: ": "Poland",
+        "debt: ": "47.48%",
+        "poplulation: ": "37,846,611"
+    },
+    {
+        "name: ": "Algeria",
+        "debt: ": "46.92%",
+        "poplulation: ": "43,851,044"
+    },
+    {
+        "name: ": "Slovakia",
+        "debt: ": "46.90%",
+        "poplulation: ": "5,459,642"
+    },
+    {
+        "name: ": "Liberia",
+        "debt: ": "46.66%",
+        "poplulation: ": "5,057,681"
+    },
+    {
+        "name: ": "Guinea",
+        "debt: ": "45.98%",
+        "poplulation: ": "13,132,795"
+    },
+    {
+        "name: ": "Georgia",
+        "debt: ": "45.05%",
+        "poplulation: ": "3,989,167"
+    },
+    {
+        "name: ": "Uganda",
+        "debt: ": "44.81%",
+        "poplulation: ": "45,741,007"
+    },
+    {
+        "name: ": "Chad",
+        "debt: ": "42.91%",
+        "poplulation: ": "16,425,864"
+    },
+    {
+        "name: ": "Burkina Faso",
+        "debt: ": "42.47%",
+        "poplulation: ": "20,903,273"
+    },
+    {
+        "name: ": "Malta",
+        "debt: ": "42.46%",
+        "poplulation: ": "441,543"
+    },
+    {
+        "name: ": "Central African Republic",
+        "debt: ": "42.25%",
+        "poplulation: ": "4,829,767"
+    },
+    {
+        "name: ": "Dominican Republic",
+        "debt: ": "41.92%",
+        "poplulation: ": "10,847,910"
+    },
+    {
+        "name: ": "Thailand",
+        "debt: ": "41.47%",
+        "poplulation: ": "69,799,978"
+    },
+    {
+        "name: ": "Swaziland",
+        "debt: ": "41.11%",
+        "poplulation: ": "1,160,164"
+    },
+    {
+        "name: ": "Australia",
+        "debt: ": "41.10%",
+        "poplulation: ": "25,499,884"
+    },
+    {
+        "name: ": "Madagascar",
+        "debt: ": "41.02%",
+        "poplulation: ": "27,691,018"
+    },
+    {
+        "name: ": "Nicaragua",
+        "debt: ": "40.88%",
+        "poplulation: ": "6,624,554"
+    },
+    {
+        "name: ": "Honduras",
+        "debt: ": "40.80%",
+        "poplulation: ": "9,904,607"
+    },
+    {
+        "name: ": "South Korea",
+        "debt: ": "40.54%",
+        "poplulation: ": "51,269,185"
+    },
+    {
+        "name: ": "Macedonia",
+        "debt: ": "40.48%",
+        "poplulation: ": "2,083,374"
+    },
+    {
+        "name: ": "Switzerland",
+        "debt: ": "39.49%",
+        "poplulation: ": "8,654,622"
+    },
+    {
+        "name: ": "Myanmar",
+        "debt: ": "39.19%",
+        "poplulation: ": "54,409,800"
+    },
+    {
+        "name: ": "Philippines",
+        "debt: ": "39.10%",
+        "poplulation: ": "109,581,078"
+    },
+    {
+        "name: ": "Cameroon",
+        "debt: ": "38.11%",
+        "poplulation: ": "26,545,863"
+    },
+    {
+        "name: ": "Romania",
+        "debt: ": "37.99%",
+        "poplulation: ": "19,237,691"
+    },
+    {
+        "name: ": "Lesotho",
+        "debt: ": "37.95%",
+        "poplulation: ": "2,142,249"
+    },
+    {
+        "name: ": "South Sudan",
+        "debt: ": "37.81%",
+        "poplulation: ": "11,193,725"
+    },
+    {
+        "name: ": "Panama",
+        "debt: ": "37.81%",
+        "poplulation: ": "4,314,767"
+    },
+    {
+        "name: ": "Papua New Guinea",
+        "debt: ": "37.72%",
+        "poplulation: ": "8,947,024"
+    },
+    {
+        "name: ": "Equatorial Guinea",
+        "debt: ": "37.49%",
+        "poplulation: ": "1,402,985"
+    },
+    {
+        "name: ": "Sweden",
+        "debt: ": "37.23%",
+        "poplulation: ": "10,099,265"
+    },
+    {
+        "name: ": "Mali",
+        "debt: ": "36.93%",
+        "poplulation: ": "20,250,833"
+    },
+    {
+        "name: ": "Norway",
+        "debt: ": "36.75%",
+        "poplulation: ": "5,421,241"
+    },
+    {
+        "name: ": "Latvia",
+        "debt: ": "36.66%",
+        "poplulation: ": "1,886,198"
+    },
+    {
+        "name: ": "Tanzania",
+        "debt: ": "36.57%",
+        "poplulation: ": "59,734,218"
+    },
+    {
+        "name: ": "Bosnia and Herzegovina",
+        "debt: ": "36.34%",
+        "poplulation: ": "3,280,819"
+    },
+    {
+        "name: ": "Haiti",
+        "debt: ": "36.23%",
+        "poplulation: ": "11,402,528"
+    },
+    {
+        "name: ": "Comoros",
+        "debt: ": "35.08%",
+        "poplulation: ": "869,601"
+    },
+    {
+        "name: ": "Bangladesh",
+        "debt: ": "34.81%",
+        "poplulation: ": "164,689,383"
+    },
+    {
+        "name: ": "Taiwan",
+        "debt: ": "33.91%",
+        "poplulation: ": "23,816,775"
+    },
+    {
+        "name: ": "Lithuania",
+        "debt: ": "33.79%",
+        "poplulation: ": "2,722,289"
+    },
+    {
+        "name: ": "Denmark",
+        "debt: ": "33.61%",
+        "poplulation: ": "5,792,202"
+    },
+    {
+        "name: ": "Iceland",
+        "debt: ": "33.13%",
+        "poplulation: ": "341,243"
+    },
+    {
+        "name: ": "Nepal",
+        "debt: ": "33.07%",
+        "poplulation: ": "29,136,808"
+    },
+    {
+        "name: ": "Czech Republic",
+        "debt: ": "31.57%",
+        "poplulation: ": "10,708,981"
+    },
+    {
+        "name: ": "Turkmenistan",
+        "debt: ": "30.25%",
+        "poplulation: ": "6,031,200"
+    },
+    {
+        "name: ": "Nigeria",
+        "debt: ": "30.05%",
+        "poplulation: ": "206,139,589"
+    },
+    {
+        "name: ": "Iran",
+        "debt: ": "30.04%",
+        "poplulation: ": "83,992,949"
+    },
+    {
+        "name: ": "Turkey",
+        "debt: ": "29.93%",
+        "poplulation: ": "84,339,067"
+    },
+    {
+        "name: ": "Cambodia",
+        "debt: ": "29.57%",
+        "poplulation: ": "16,718,965"
+    },
+    {
+        "name: ": "Indonesia",
+        "debt: ": "29.29%",
+        "poplulation: ": "273,523,615"
+    },
+    {
+        "name: ": "Moldova",
+        "debt: ": "28.82%",
+        "poplulation: ": "4,033,963"
+    },
+    {
+        "name: ": "New Zealand",
+        "debt: ": "28.07%",
+        "poplulation: ": "4,822,233"
+    },
+    {
+        "name: ": "Peru",
+        "debt: ": "27.18%",
+        "poplulation: ": "32,971,854"
+    },
+    {
+        "name: ": "Chile",
+        "debt: ": "27.17%",
+        "poplulation: ": "19,116,201"
+    },
+    {
+        "name: ": "Guatemala",
+        "debt: ": "24.76%",
+        "poplulation: ": "17,915,568"
+    },
+    {
+        "name: ": "Saudi Arabia",
+        "debt: ": "23.71%",
+        "poplulation: ": "34,813,871"
+    },
+    {
+        "name: ": "Kiribati",
+        "debt: ": "23.48%",
+        "poplulation: ": "119,449"
+    },
+    {
+        "name: ": "Marshall Islands",
+        "debt: ": "23.37%",
+        "poplulation: ": "59,190"
+    },
+    {
+        "name: ": "Uzbekistan",
+        "debt: ": "23.23%",
+        "poplulation: ": "33,469,203"
+    },
+    {
+        "name: ": "Paraguay",
+        "debt: ": "22.37%",
+        "poplulation: ": "7,132,538"
+    },
+    {
+        "name: ": "Tuvalu",
+        "debt: ": "21.81%",
+        "poplulation: ": "11,792"
+    },
+    {
+        "name: ": "Luxembourg",
+        "debt: ": "21.61%",
+        "poplulation: ": "625,978"
+    },
+    {
+        "name: ": "Zimbabwe",
+        "debt: ": "20.99%",
+        "poplulation: ": "14,862,924"
+    },
+    {
+        "name: ": "Kazakhstan",
+        "debt: ": "20.90%",
+        "poplulation: ": "18,776,707"
+    },
+    {
+        "name: ": "Bulgaria",
+        "debt: ": "19.33%",
+        "poplulation: ": "6,948,445"
+    },
+    {
+        "name: ": "United Arab Emirates",
+        "debt: ": "19.20%",
+        "poplulation: ": "9,890,402"
+    },
+    {
+        "name: ": "Micronesia",
+        "debt: ": "18.41%",
+        "poplulation: ": "115,023"
+    },
+    {
+        "name: ": "Kuwait",
+        "debt: ": "17.78%",
+        "poplulation: ": "4,270,571"
+    },
+    {
+        "name: ": "Azerbaijan",
+        "debt: ": "17.59%",
+        "poplulation: ": "10,139,177"
+    },
+    {
+        "name: ": "Solomon Islands",
+        "debt: ": "14.56%",
+        "poplulation: ": "686,884"
+    },
+    {
+        "name: ": "DR Congo",
+        "debt: ": "14.01%",
+        "poplulation: ": "89,561,403"
+    },
+    {
+        "name: ": "Russia",
+        "debt: ": "13.79%",
+        "poplulation: ": "145,934,462"
+    },
+    {
+        "name: ": "Botswana",
+        "debt: ": "12.78%",
+        "poplulation: ": "2,351,627"
+    },
+    {
+        "name: ": "Estonia",
+        "debt: ": "7.61%",
+        "poplulation: ": "1,326,535"
+    },
+    {
+        "name: ": "Afghanistan",
+        "debt: ": "6.88%",
+        "poplulation: ": "38,928,346"
+    },
+    {
+        "name: ": "Brunei",
+        "debt: ": "2.63%",
+        "poplulation: ": "437,479"
+    }
+]
