@@ -10,11 +10,7 @@ class DebtSpider(scrapy.Spider):
     def parse(self, response):
         rows = response.xpath("//table[@class='datatableStyles__StyledTable-bwtkle-1 hOnuWY table table-striped']/tbody/tr") 
 
-        # //table[@class='datatableStyles__StyledTable-bwtkle-1 hOnuWY table table-striped']
-        # yield {
-        #     "rows": rows
-        # }
-
+    
         for row in rows:
             counrty_name = row.xpath('.//td[1]/a[@href]/text()').get()
             debt = row.xpath(".//td[2]/text()").get()
